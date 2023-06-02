@@ -4,5 +4,5 @@
 
 
 [![rony-yang's GitHub stats](https://github-readme-stats.vercel.app/api?username=rony-yang&theme=dracula)](https://github.com/rony-yang/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rony-yang&layout=compact&theme=dracula)](https://github.com/rony-yang/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rony-yang&layout=donut&theme=dracula)](https://github.com/rony-yang/github-readme-stats)
 
