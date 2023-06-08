@@ -1,3 +1,4 @@
+
 ## Hi I'm rony-yang 👋
 
 
@@ -21,7 +22,13 @@
 
 #### 📈 Stats
 
+
 [![rony-yang's GitHub stats](https://github-readme-stats.vercel.app/api?username=rony-yang&theme=dracula&rank_icon=deafult)](https://github.com/rony-yang/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rony-yang&layout=compact&theme=dracula)](https://github.com/rony-yang/github-readme-stats)
+
+![CodingGIF](https://github.com/rony-yang/rony-yang/assets/116271236/e89737b6-e291-4b7b-8d49-a1cfee924ab4)
+
+
+
+
 
